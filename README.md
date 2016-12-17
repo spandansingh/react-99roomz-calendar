@@ -9,7 +9,7 @@ Inspired by [Full Calendar](http://fullcalendar.io/).
 
 ## Use and Setup
 
-`npm install react-big-calendar --save`
+`npm install react-99roomz-calendar --save`
 
 Include `react-big-calendar/lib/css/react-big-calendar.css` for styles.
 
